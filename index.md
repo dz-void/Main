@@ -9,7 +9,7 @@
   [Info](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
  
   [Misc](https://fernbacher.github.io/linux-for-begginers/#software)
- 
+  ---
   # Social Media
   [Github](https://github.com/dz-void)
   
