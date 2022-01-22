@@ -1,11 +1,3 @@
-<h1 align="center">
- Linux For Beginners
-</h1>
-
-<h2 align="center">
-For people looking to join linux. This is not a spoonfeeding repository.
-</h2> 
-
 # Quick Links
   [Reasons not to use Microsoft #](https://stallman.org/microsoft.html)
   
