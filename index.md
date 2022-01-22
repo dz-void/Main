@@ -1,5 +1,12 @@
   # dz-void.github.io
   
+  # Shortcuts
+  [# Social Media](https://fernbacher.github.io/linux-for-begginers/#distros)
+  
+  [# Info](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
+ 
+  [# Misc](https://fernbacher.github.io/linux-for-begginers/#software)
+ 
   # Social Media
   [Github](https://github.com/dz-void)
   
