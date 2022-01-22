@@ -1,6 +1,6 @@
-  **dz-void.github.io** (work in progress)
+**dz-void.github.io** (work in progress)
   
-  **Social Media**
+**Social Media**
   
   [Github](https://github.com/dz-void)
   
@@ -38,5 +38,9 @@
   
   [Gitlab](https://gitlab.com/official.dz.void)
   
-  **About Me**
-  
+**About Me**
+
+• 19
+• Joshua
+• Greece, Athens
+• Active
