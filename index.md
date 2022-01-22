@@ -41,6 +41,8 @@
 **About Me**
 ------------
   • 19
+  
   • Joshua
+  
   • Greece, Athens
-  • Active
+  
