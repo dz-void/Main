@@ -16,6 +16,8 @@
   
   [ROBLOX](https://www.roblox.com/users/3247147868/profile)
   
+  [Paypal](https://www.paypal.com/paypalme/dzvoid)
+  
   [Twitter](https://twitter.com/DzVoid)
   
   [Steam](https://steamcommunity.com/id/dz-void)
@@ -28,11 +30,19 @@
   
   [Plermo](https://blob.cat/dz-void)
   
+  [Spotify](https://open.spotify.com/user/31qjunb3cmf3lsyzprpmnygc352m)
+  
+  [Odysee](https://odysee.com/@dz.void:5)
+  
+  [Streamlabs Tip](https://streamlabs.com/dz_void/tip)
+  
   [Battle.net (dzvoid#2496)](https://battle.net/)
   
   [Reddit](https://www.reddit.com/user/dzvoid)
   
   [Mastodon](https://c.im/@dzvoid)
+  
+  [Microsoft](https://www.xboxgamertag.com/search/dz-v0id)
   
   [OpenStreetMap](https://www.openstreetmap.org/user/dzvoid)
   
