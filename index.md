@@ -1,4 +1,4 @@
-**dz-void.github.io** (work in progress)
+**dz-void.github.io**
   
 **Social Media**
 ----------------
