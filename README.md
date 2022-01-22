@@ -1,4 +1,4 @@
 # README
-[website](https://dz-void.github.io/main/)
+[Website](https://dz-void.github.io/main/)
 ---
-[github account](https://github.com/dz-void)
+[Github Account](https://github.com/dz-void)
