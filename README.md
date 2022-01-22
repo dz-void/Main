@@ -1,5 +1,5 @@
 # README
-[Website](https://dz-void.github.io/main/)
+[Website](https://dz-void.github.io/Main/)
 ---
 [Github Account](https://github.com/dz-void)
 ---
