@@ -1,6 +1,6 @@
   **dz-void.github.io** (work in progress)
   
-  #Social Media
+  **Social Media**
   
   [Github](https://github.com/dz-void)
   
@@ -12,10 +12,14 @@
   
   [LinuxFr](https://linuxfr.org/users/dzvoid)
   
+  [LiberaPay](https://liberapay.com/dz-void/)
+  
   [ROBLOX](https://www.roblox.com/users/3247147868/profile)
   
   [Twitter](https://twitter.com/DzVoid)
- 
+  
+  [BuyMeACoffee](https://www.buymeacoffee.com/dz.void)
+  
   [Facebook](https://facebook.com/profile.php?id=100077212432383)
   
   [Bitbucket](https://bitbucket.org/dzvoid/)
@@ -31,3 +35,6 @@
   [OpenStreetMap](https://www.openstreetmap.org/user/dzvoid)
   
   [Gitlab](https://gitlab.com/official.dz.void)
+  
+  **About Me**
+  
