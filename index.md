@@ -40,5 +40,3 @@
   [OpenStreetMap](https://www.openstreetmap.org/user/dzvoid)
   
   [Gitlab](https://gitlab.com/official.dz.void)
-  
- **Theme used; [Gesko by P0WEX](https://github.com/P0WEX/Gesko)**
