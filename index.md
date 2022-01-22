@@ -1,11 +1,14 @@
-  # dz-void.github.io (work in progress)
+  # dz-void.github.io (Work In Progress)
   
   # Shortcuts
-  [# Social Media](https://fernbacher.github.io/linux-for-begginers/#distros)
+  ---
+  Various links, So you don't have to scroll as much.
+  ---
+  [Social Media](https://fernbacher.github.io/linux-for-begginers/#distros)
   
-  [# Info](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
+  [Info](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
  
-  [# Misc](https://fernbacher.github.io/linux-for-begginers/#software)
+  [Misc](https://fernbacher.github.io/linux-for-begginers/#software)
  
   # Social Media
   [Github](https://github.com/dz-void)
