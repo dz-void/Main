@@ -40,9 +40,8 @@
   
 **About Me**
 ------------
-  • 19
-  
   • Joshua
   
-  • Greece, Athens
+  • 19
   
+  • Greece, Athens
