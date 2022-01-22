@@ -1,18 +1,6 @@
   **dz-void.github.io** (work in progress)
-  ---
-  # Shortcuts
-  ---
-  Various links, So you don't have to scroll as much.
-  ---
-  [Social Media](https://fernbacher.github.io/linux-for-begginers/#distros)
   
-  [Info](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
- 
-  [Misc](https://fernbacher.github.io/linux-for-begginers/#software)
-  
-  [Beginning](https://dz-void.github.io/Main)
-  ---
-  # Social Media
+  #Social Media
   [Github](https://github.com/dz-void)
   
   [Youtube](https://www.youtube.com/channel/UCMW5Dxg_XH0sosr7GNiskwQ)
@@ -22,6 +10,8 @@
   [Twitch](https://twitch.tv/dz_void)
   
   [LinuxFr](https://linuxfr.org/users/dzvoid)
+  
+  [ROBLOX](https://www.roblox.com/users/3247147868/profile)
   
   [Twitter](https://twitter.com/DzVoid)
  
