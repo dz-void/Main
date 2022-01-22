@@ -3,4 +3,4 @@
 ---
 [github account](https://github.com/dz-void)
 ---
-[buymeacoffee](https://www.buymeacoffee.com/dz.void)
+[support me](https://www.buymeacoffee.com/dz.void)
