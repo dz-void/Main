@@ -1,5 +1,5 @@
-  # dz-void.github.io (Work In Progress)
-  
+  **dz-void.github.io** (work in progress)
+  ---
   # Shortcuts
   ---
   Various links, So you don't have to scroll as much.
@@ -9,6 +9,8 @@
   [Info](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
  
   [Misc](https://fernbacher.github.io/linux-for-begginers/#software)
+  
+  [Beginning](dz-void.github.io)
   ---
   # Social Media
   [Github](https://github.com/dz-void)
