@@ -1,4 +1,4 @@
-  # dz-void.github.io
+  # dz-void.github.io (work in progress)
   
   # Shortcuts
   [# Social Media](https://fernbacher.github.io/linux-for-begginers/#distros)
