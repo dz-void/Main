@@ -1,2 +1,2 @@
-# main
-[WEBSITE](https://dz-void.github.io/main/)
+# ABOUT
+[website](https://dz-void.github.io/main/)
