@@ -1,6 +1,7 @@
 **dz-void.github.io** (work in progress)
   
 **Social Media**
+----------------
   [Github](https://github.com/dz-void)
   
   [Youtube](https://www.youtube.com/channel/UCMW5Dxg_XH0sosr7GNiskwQ)
@@ -38,6 +39,7 @@
   [Gitlab](https://gitlab.com/official.dz.void)
   
 **About Me**
+------------
   • 19
   • Joshua
   • Greece, Athens
