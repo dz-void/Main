@@ -10,7 +10,7 @@
  
   [Misc](https://fernbacher.github.io/linux-for-begginers/#software)
   
-  [Beginning](dz-void.github.io)
+  [Beginning](https://dz-void.github.io/Main)
   ---
   # Social Media
   [Github](https://github.com/dz-void)
