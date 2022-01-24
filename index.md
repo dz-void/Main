@@ -16,6 +16,8 @@
   
   [LinuxFr](https://linuxfr.org/users/dzvoid)
   
+  [BuyMeACoffee](https://www.buymeacoffee.com/dz.void)
+  
   [LiberaPay](https://liberapay.com/dz-void/)
   
   [ROBLOX](https://www.roblox.com/users/3247147868/profile)
