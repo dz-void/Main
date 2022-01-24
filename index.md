@@ -23,9 +23,7 @@
   [Twitter](https://twitter.com/DzVoid)
   
   [Steam](https://steamcommunity.com/id/dz-void)
-  
-  [BuyMeACoffee](https://www.buymeacoffee.com/dz.void)
-  
+
   [Facebook](https://facebook.com/profile.php?id=100077212432383)
   
   [Bitbucket](https://bitbucket.org/dzvoid/)
