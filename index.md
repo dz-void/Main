@@ -10,6 +10,8 @@
   
   [Guilded](https://guilded.gg/dzvoids-cult)
   
+  [Discord Server](https://discord.gg/FVdP6VrFc6)
+  
   [Twitch](https://twitch.tv/dz_void)
   
   [LinuxFr](https://linuxfr.org/users/dzvoid)
