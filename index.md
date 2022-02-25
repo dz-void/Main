@@ -26,7 +26,7 @@
   
   [Twitter](https://twitter.com/DzVoid)
   
-  [Steam](https://steamcommunity.com/id/dz-void)
+  [Steam](https://steamcommunity.com/id/dz_void)
 
   [Facebook](https://facebook.com/profile.php?id=100077212432383)
   
@@ -40,17 +40,17 @@
   
   [Streamlabs Tip](https://streamlabs.com/dz_void/tip)
   
-  [Battle.net (dzvoid#2496)](https://battle.net/)
+  [Battle.net (void0dz#2742)](https://battle.net/)
   
   [Reddit](https://www.reddit.com/user/dzvoid)
   
   [Mastodon](https://c.im/@dzvoid)
   
-  [Microsoft](https://www.xboxgamertag.com/search/dz-v0id)
+  [Xbox Account](https://www.xboxgamertag.com/search/dz-v0id)
   
   [OpenStreetMap](https://www.openstreetmap.org/user/dzvoid)
   
-  [Gitlab](https://gitlab.com/official.dz.void)
+  [Gitlab](https://gitlab.com/dz.void)
   
 **About Me**
 ------------
